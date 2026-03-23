@@ -1,2 +1,16 @@
-# algorand-voting-system
-A blockchain-based voting system using Algorand that ensures secure, transparent, and tamper-proof elections.
+# Algorand Project
+
+## Project Idea
+Explain what your project does (example: a voting system using blockchain).
+
+## Features
+- Secure transactions
+- Fast processing
+- Decentralized system
+
+## Tech Stack
+- Algorand
+- Python / JavaScript
+
+## Author
+Penumachha Poojith Varma Sai
